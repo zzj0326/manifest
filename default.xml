@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-      fetch="https://android.googlesource.com/" />
+      fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/" />
 
   <remote name="github"
       fetch="git://github.com/Technexion-Android/" />
