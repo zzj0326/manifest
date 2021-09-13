@@ -24,8 +24,8 @@
     review="" />
 
   <remote  name="aosp"
-           fetch="https://android.googlesource.com/"
-           review="https://android-review.googlesource.com/" />
+           fetch="https://mirrors.tuna.tsinghua.edu.cn/git/AOSP/"
+           review="" />
   <default revision="refs/tags/android-9.0.0_r35"
            remote="aosp"
            sync-j="4" />
